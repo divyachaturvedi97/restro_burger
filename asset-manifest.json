@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/restro_burger/static/css/main.1cedd73e.css",
+    "main.js": "/restro_burger/static/js/main.1ee89e43.js",
+    "static/media/img3.jpeg": "/restro_burger/static/media/img3.5f3e1171b034889d3a0e.jpeg",
+    "static/media/img1.jpg": "/restro_burger/static/media/img1.a1a78a3c200366a8f4b4.jpg",
+    "index.html": "/restro_burger/index.html",
+    "main.1cedd73e.css.map": "/restro_burger/static/css/main.1cedd73e.css.map",
+    "main.1ee89e43.js.map": "/restro_burger/static/js/main.1ee89e43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cedd73e.css",
+    "static/js/main.1ee89e43.js"
+  ]
+}
